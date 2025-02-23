@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1110 625">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        mask: url(#mask);
+      }
+
+      .st2 {
+        fill: #e4eaec;
+      }
+    </style>
+    <mask id="mask" x="0" y="0" width="1110" height="789" maskUnits="userSpaceOnUse">
+      <g id="mask0_9_311">
+        <path class="st2" d="M0,40C0,17.9,17.9,0,40,0h1030c22.1,0,40,17.9,40,40v585H0V40Z"/>
+      </g>
+    </mask>
+  </defs>
+  <g class="st1">
+    <path class="st0" d="M0,32C0,14.3,14.3,0,32,0h1046c17.7,0,32,14.3,32,32v757H0V32Z"/>
+  </g>
+</svg>
