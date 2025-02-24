@@ -9,7 +9,7 @@ const Hero = () => {
   const { title, subtitle, btnText, compText, image } = hero;
   return (
 
-    <section className='bg-[#ffffff] bg-opacity- min-h-[900px] py-12 '>
+    <section className='bg-[#75b4fd] bg-opacity- min-h-[900px] py-12 '>
 
       <div className='container mx-auto min-h-[900px] flex 
 
